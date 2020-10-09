@@ -57,6 +57,13 @@ function App() {
         <Album />
         <Album />
       </div>
+
+      <div class="footer">
+        <p>
+          album example is © bootstrap, but please download and customize
+          yourself!
+        </p>
+      </div>
     </>
   );
 }
